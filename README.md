@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bow (Natthawadee Chansirinukroh)</h1>
 <!-- <h3 align="center">A passionate full-stack developer from Thailand</h3> -->
 
-## About me
+<!-- ## About me -->
 
 - 🌱 I’m currently learning **React and Node JS**
 
