@@ -1,15 +1,18 @@
 <div align="center"><img width="1000px" height="400px" src="https://github.com/bobow22/devcamp/blob/main/images/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg?raw=true"></div>
 
-<h1 align="center">Hi 👋, I'm Bow (Natthawadee Chansirinukroh)</h1>
+<h1 align="center">Hi 👋, I'm Bow </h1>
 <!-- <h3 align="center">A passionate full-stack developer from Thailand</h3> -->
 
 <!-- ## About me -->
 
 - 🌱 I’m currently learning **React and Node JS**
 
-- 📫 You can reach me at **bobow.kj@gmail.com**
+- 👨‍💻 My portfolio website: [https://bobow22.github.io/](https://bobow22.github.io/)
+
+- 📫 How to reach me: **bobow.kj@gmail.com**
 
 - ⚡Fun fact: **If you like reading manga, come talk to me!**
+- Portfolio Website: <a href="https://bobow22.github.io/" target="_blank">My Portfolio</a>
 
 ## Skills
 
@@ -35,4 +38,11 @@
 
 - [Flowaccount](http://13.229.197.248/)
 - [Flowaccount-v2](http://13.215.191.2/)
-- [E-Commerce](http://18.136.199.111/)
+- [Crypto Tracker](https://crypto-tracker-sandy-six.vercel.app/)
+- [Todo List](https://todolist-seven-mauve.vercel.app/)
+- [Pokedex](https://pokedex-taupe-six.vercel.app/)
+- [Stock Management](http://18.136.199.111/)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobow22&show_icons=true&locale=en" alt="bobow22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobow22&" alt="bobow22" /></p>
