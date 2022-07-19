@@ -1,6 +1,6 @@
 <div align="center"><img width="1000px" height="400px" src="https://github.com/bobow22/devcamp/blob/main/images/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg?raw=true"></div>
 
-<h1 align="center">Hi 👋, I'm Bow </h1>
+<!-- <h1 align="center">Hi 👋, I'm Bow </h1> -->
 <!-- <h3 align="center">A passionate full-stack developer from Thailand</h3> -->
 
 <!-- ## About me -->
