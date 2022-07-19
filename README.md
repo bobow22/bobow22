@@ -3,7 +3,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Bow </h1> -->
 <!-- <h3 align="center">A passionate full-stack developer from Thailand</h3> -->
 
-<!-- ## About me -->
+![](https://komarev.com/ghpvc/?username=bobow22&color=ff69b4&style=flat)
+
+## About me
 
 - 🌱 I’m currently learning to be a **full-stack developer**, mainly focusing on **React and Node JS**
 
