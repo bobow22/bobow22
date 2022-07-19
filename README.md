@@ -5,7 +5,7 @@
 
 <!-- ## About me -->
 
-- 🌱 I’m currently learning **React and Node JS**
+- 🌱 I’m currently learning to be a **full-stack developer**, mainly focusing on **React and Node JS**
 
 - 👨‍💻 My portfolio website: [https://bobow22.github.io/](https://bobow22.github.io/)
 
